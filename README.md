@@ -6,3 +6,5 @@ Quando clicado em um usuário é então aberto um modal de pagamento, contendo a
  a opção de selecionar um cartão de crédito e um botão de pagar. O usuário deve então digitar o valor, escolher o cartão e clicar em pagar. 
  Para realização do pagamento deve-se chamar um endpoint de pagamento que aprovará/recusará a transação. E então deve-se mostrar na tela o modal de pagamento concluído com sucesso ou o de erro.
  
+ https://app.netlify.com/sites/brave-almeida-ee6801/overview
+ 
