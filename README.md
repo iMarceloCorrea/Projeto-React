@@ -1,8 +1,8 @@
 
-<a href="https://ibb.co/ky93w6p"><img src="https://i.ibb.co/1ndsPJ3/react1.png" alt="react1" border="0"></a>
+<a href="https://ibb.co/ky93w6p"><img src="https://i.ibb.co/1ndsPJ3/react1.png" alt="react1" border="0" width="1180em"></a>
 
 
-https://serene-blackwell-187c8a.netlify.app/
+<h2>https://serene-blackwell-187c8a.netlify.app/</h2>
 
 O objetivo é construir uma aplicação que simula o envio de dinheiro para uma outra pessoa, via cartão de crédito.
 
