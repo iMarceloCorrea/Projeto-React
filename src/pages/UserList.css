@@ -34,7 +34,63 @@ button {
     color: #000000;
 }
 
+/* modal */
 
+.modal{
+  display: flex;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  right: 'auto';
+  bottom: 'auto';
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  width: 310px;
+  height: 190px;
+  flex-direction: column;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.modal span{
+  background-color: #474971;
+  color: white;
+  padding: 10px;
+  width: 94%;
+  align-content: center;
+}
+
+.modal b{
+  color: #C8D63C;
+}
+
+.modal select{
+  width: 50%;
+}
+
+.modal button{
+  width: 20%;
+  margin-bottom: 10px;
+}
+
+.modal p{
+  text-align: center;
+}
+
+.input-money{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-money p{
+ margin: 0;
+ color: red;
+}
 
 
   
